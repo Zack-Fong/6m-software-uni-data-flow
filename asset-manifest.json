@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/6m-software-uni-data-flow/static/css/main.00ba40cc.css",
+    "main.js": "/6m-software-uni-data-flow/static/js/main.119c7dfc.js",
+    "index.html": "/6m-software-uni-data-flow/index.html",
+    "main.00ba40cc.css.map": "/6m-software-uni-data-flow/static/css/main.00ba40cc.css.map",
+    "main.119c7dfc.js.map": "/6m-software-uni-data-flow/static/js/main.119c7dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ba40cc.css",
+    "static/js/main.119c7dfc.js"
+  ]
+}
